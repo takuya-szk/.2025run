@@ -45,21 +45,21 @@ class Title
 			
 			<select id="item" name="item" class="child itemSelect">
 				<option value="">-- 選択してください --</option>
-				<option value="1hashiru">聖書1章:2km</option>
-				<option value="2hashiru">賛美1曲:2km</option>
-				<option value="3hashiru">祈り5分:2km</option>
-				<option value="1hashiru">先生の詩を読む:2km</option>
-				<option value="2hashiru">先生の詩を書く:2km</option>
-				<option value="3hashiru">箴言を読む:2km</option>
-				<option value="1hashiru">箴言を書く:2km</option>
-				<option value="2hashiru">5分掃除:2km</option>
-				<option value="3hashiru">走り1キロ:1km</option>
-				<option value="1hashiru">自転車1キロ:1km</option>
-				<option value="2hashiru">勉強5分:1km</option>
-				<option value="3hashiru">リフティング100回:1km</option>
-				<option value="1hashiru">バスケシュート20本ゴール:1km</option>
-				<option value="2hashiru">サッカーシュート20本ゴール:1km</option>
-				<option value="2hashiru">修正-1</option>
+				<option value="1">聖書1章:2km</option>
+				<option value="2">賛美1曲:2km</option>
+				<option value="3">祈り5分:2km</option>
+				<option value="4">先生の詩を読む:2km</option>
+				<option value="5">先生の詩を書く:2km</option>
+				<option value="6">箴言を読む:2km</option>
+				<option value="7">箴言を書く:2km</option>
+				<option value="8">5分掃除:2km</option>
+				<option value="9">走り1キロ:1km</option>
+				<option value="10">自転車1キロ:1km</option>
+				<option value="11">勉強5分:1km</option>
+				<option value="12">リフティング100回:1km</option>
+				<option value="13">バスケシュート20本ゴール:1km</option>
+				<option value="14">サッカーシュート20本ゴール:1km</option>
+				<option value="99">修正-1</option>
 			</select>
 		
 			<div class="child apply" onClick="apply()">申請する<div>
